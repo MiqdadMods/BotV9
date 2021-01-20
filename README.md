@@ -1,12 +1,12 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> SELF-BOT
+
 <p align="center">
-<img src="https://s4.bukalapak.com/bukalapak-kontenz-production/content_attachments/59009/original/anime_game.jpg" width="320">
+
 </p>
 <br>
 
 
 <p align="center">
-<a href="https://github.com/HAFizh-15"><img title="Author" src="https://img.shields.io/badge/HAFIZH-FREE%20SELF%20BOT-green)"></a>
+
 </p>
 <p align="center">
 </p>
